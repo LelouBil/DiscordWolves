@@ -1,0 +1,30 @@
+plugins {
+    id 'java'
+    id'application'
+    id'com.github.johnrengelman.shadow' version '4.0.2'
+}
+
+group 'DiscordWolves'
+version '1.0-SNAPSHOT'
+
+mainClassName = 'net.leloubil.discordwolves.Main'
+def jdaVersion = '3.8.1_450'
+
+sourceCompatibility = 1.8
+
+repositories {
+    jcenter()
+    mavenCentral()
+}
+
+dependencies {
+    compile "net.dv8tion:JDA:$jdaVersion"
+    compile 'com.jagrosh:jda-utilities:2.1.5'
+    compile group: 'org.reflections', name:'reflections', version: '0.9.11'
+    compileOnly 'org.projectlombok:lombok:1.18.4'
+    compile 'com.google.guava:guava:27.0.1-jre'
+    annotationProcessor 'org.projectlombok:lombok:1.18.4'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.11.1'
+    compile group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.11.1'
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+}

@@ -1,0 +1,9 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(σωυσώÿÿÿÿ8μπΑ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Χψ‘Ψόÿÿÿÿ8μπΑ-
+Psquid:S1135."2Complete the task associated to this TODO comment.(·£η8μπΑ-
+nsquid:UselessImportCheck">Remove this unused import 'net.leloubil.discordwolves.Player'.(ΐΞωΙψÿÿÿÿ8μπΑ-
+ksquid:UselessImportCheck";Remove this unused import 'lombok.RequiredArgsConstructor'.(ΡΨϊψÿÿÿÿ8μπΑ-
+`squid:UselessImportCheck"5Remove this unused import 'lombok.NoArgsConstructor'.(Έ¨›8μπΑ-

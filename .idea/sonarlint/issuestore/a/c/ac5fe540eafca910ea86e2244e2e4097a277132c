@@ -1,0 +1,14 @@
+
+Usquid:S1135t"2Complete the task associated to this TODO comment.(ñ•Ôøÿÿÿÿ8µ†ßö€-
+Rsquid:S1172".Remove this unused method parameter "players".(ëãüÛşÿÿÿÿ8èÁ´Æ-
+Vsquid:S1135œ"2Complete the task associated to this TODO comment.(ñ•Ôøÿÿÿÿ8şÄÁ-
+"squid:ClassVariableVisibilityCheckÛ"SMake players a static final constant or non-public and provide accessors if needed.(½Æ›ºüÿÿÿÿ8şÇÁ-
+’"squid:ClassVariableVisibilityCheckÕ"WMake textChannel a static final constant or non-public and provide accessors if needed.(½îÈÙÿÿÿÿÿ8şÇÁ-
+Isquid:S1172s"&Remove these unused method parameters.(‹Öê‚ÿÿÿÿÿ8êğ˜Á-
+=squid:S2676%"Use the original value instead.(½¨“µ8ìÉ÷€-
+"squid:ClassVariableVisibilityCheckÙ"RMake config a static final constant or non-public and provide accessors if needed.(ÀúÉ¡úÿÿÿÿ8şÇÁ-
+Qsquid:S1172›"-Remove this unused method parameter "player".(È‘»…ûÿÿÿÿ8ÿõÉÂ-
+Msquid:S1172ê".Remove this unused method parameter "players".(ÔŞÇ–8èÁ´Æ-
+\
+squid:S106İ"9Replace this use of System.out or System.err by a logger.(ÙÔöÖùÿÿÿÿ8şÇÁ-
+"squid:ClassVariableVisibilityCheck×"XMake voiceChannel a static final constant or non-public and provide accessors if needed.(õÔ€İ8şÇÁ-
